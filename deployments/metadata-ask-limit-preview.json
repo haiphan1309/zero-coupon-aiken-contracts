@@ -1,0 +1,44 @@
+{
+  "0": {
+    "nft": [
+      "bc2d3b7cf1009c788b1daf2208a38026ab20d7f8209d896ad1a09c14",
+      "e0b8368b6afdf93de52aa934b888455f307831a6711681272b5142e769ff6d9a"
+    ],
+    "mintedOutRef": {
+      "txHash": "1f920eb5c2a5314554700fa0257da35bbf8feed6e773b5f016c7ed8f7f4fba30",
+      "outputIndex": 0
+    },
+    "licenseNft": [
+      "bc2d3b7cf1009c788b1daf2208a38026ab20d7f8209d896ad1a09c14",
+      "00812ec73a8e2eeb3c378ce749a60294edc5f6132ea7e922afdc09ad81aa10f4"
+    ],
+    "protocolTxHash": "db7ab8ac5e264cc53698da4b1d0f9cbd06b8e50e9b14148fc72d6014648d96bf"
+  },
+  "1": {
+    "askLimitConfig": {
+      "configNft": [
+        "bc2d3b7cf1009c788b1daf2208a38026ab20d7f8209d896ad1a09c14",
+        "e0b8368b6afdf93de52aa934b888455f307831a6711681272b5142e769ff6d9a"
+      ]
+    }
+  },
+  "2": [
+    {
+      "key": "ask_limit.exec",
+      "scriptHash": "2a09a081b7b020396954641cd798e586bdf942aca436146b23d79773",
+      "scriptAddress": "addr_test1wq4qngypk7czqwtf23jpe4ucukrtm72z4jjrv9rty0tewucxayppv",
+      "smartContractOutRef": {
+        "txHash": "8025a2a68b922b75cec04c8d7b1f98064458b17d6f3ed769e848a2c320f1fe17",
+        "outputIndex": 0
+      },
+      "feeAddress": {
+        "paymentCredential": "cc806def1eb9a7016aaf91a4b7886d3717554eddfa96d221f0d52446",
+        "stakeCredential": ""
+      },
+      "withdrawScriptOutRef": null,
+      "withdrawStakeAddress": "stake_test17q4qngypk7czqwtf23jpe4ucukrtm72z4jjrv9rty0tewucx46ekx",
+      "protocolParamsOutRef": null,
+      "version": "v1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Aiken compilation artifacts
+artifacts/
+build/
+docs/
+plutus.json
+aiken.lock
+
+# Nothing in this repository reads a .env file. The pattern stays so that a
+# stray one from another checkout can never be committed here.
+*.env
+.env
+.env.*
+.envrc
+
+**/.vscode/
+**/*.log

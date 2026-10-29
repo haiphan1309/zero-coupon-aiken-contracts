@@ -1,0 +1,36 @@
+{
+  "0": {
+    "nft": [
+      "bc2d3b7cf1009c788b1daf2208a38026ab20d7f8209d896ad1a09c14",
+      "e0b8368b6afdf93de52aa934b888455f307831a6711681272b5142e769ff6d9a"
+    ],
+    "sharedWith": "ask_limit"
+  },
+  "1": {
+    "bidLimitConfig": {
+      "configNft": [
+        "bc2d3b7cf1009c788b1daf2208a38026ab20d7f8209d896ad1a09c14",
+        "e0b8368b6afdf93de52aa934b888455f307831a6711681272b5142e769ff6d9a"
+      ]
+    }
+  },
+  "2": [
+    {
+      "key": "bid_limit.exec",
+      "scriptHash": "84e9582b77f7c2bd2244aebf56e0ee212bd5c5372ac7235fef808409",
+      "scriptAddress": "addr_test1wzzwjkptwlmu90fzgjht74hqacsjh4w9xu4vwg6la7qggzgu3ld8v",
+      "smartContractOutRef": {
+        "txHash": "5081b86347a30dc4c65c1c6a7b80294a7049c3cdfe47327012b048602e60ec5b",
+        "outputIndex": 0
+      },
+      "feeAddress": {
+        "paymentCredential": "cc806def1eb9a7016aaf91a4b7886d3717554eddfa96d221f0d52446",
+        "stakeCredential": ""
+      },
+      "withdrawScriptOutRef": null,
+      "withdrawStakeAddress": "stake_test17zzwjkptwlmu90fzgjht74hqacsjh4w9xu4vwg6la7qggzguep4sx",
+      "protocolParamsOutRef": null,
+      "version": "v1.0.0"
+    }
+  ]
+}
